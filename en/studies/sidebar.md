@@ -1,4 +1,4 @@
-## Användbara länkar
+## Useful links (in Swedish)
 
 * [Studenträtt](https://www.kth.se/student/studentliv/studentratt)
 * [KTH bibliotek](https://www.kth.se/kthb)

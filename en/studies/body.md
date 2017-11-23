@@ -1,28 +1,35 @@
-#Studier
-Har du problem eller frågor relaterade till studierna? Kolla om svaren finns i [vanliga frågor om studierna](/studier/faq).
-Annars maila någon av de nedan. Är du osäker vem du kan fråga? Maila [sno@d.kth.se](mailto:sno@d.kth.se)
+# Studies
 
-## Kontakt
-Här finner du kontaktuppgifter för att ta vidare problem/frågor du kan tänkas ha rörande studier.
+Are you experiencing any problems or have questions regarding your studies?
+Check if the answers exists in the [F.A.Q](/en/studies/faq). Otherwise e-mail one
+of the people below. Are you unsure who to ask? E-mail [sno@d.kth.se](mailto:sno@d.kth.se)
 
-### Studienämndens ordförande
-Kontakta mig om du har frågor/funderingar rörande dina studier. T.ex. att något inte funkar inom en kurs. Vill du kontakta någon mer specifikt inom studienämnden, säg en årskursrepresentant [kolla här](/namnder/studienamnden#kontakt)
+## Contact
+Here you'll find contact information to ask questions or regarding problems
+you've with your studies.
+
+### President of the Education Club
+
+Contact me if you wonder about your studies. For example if something is
+problematic in one of your courses. If you want to contact someone more specific
+in the Education Club, maybe a grade representative [check this
+link](/en/clubs/education-club#contact)
 
 [sno@d.kth.se](mailto:sno@d.kth.se)
 
-### Studerandeskyddsombud
-Kontakta mig om du har frågor/funderingar rörande studiemiljön, ur både fysiskt och psykosocialt perspektiv.
+### Student safety officer
+Contact me if you have questions regarding the study environment of both the
+physical and pschosocial perspective.
 
 [sso@d.kth.se](mailto:sso@d.kth.se)
 
-### Jämlikhetsnämndens ordförande
-Kontakta mig om du har frågor/funderingar rörande jämlikhetsfrågor. 
+### President of the Equality Club
+Contact me if you have questions regarding equality questions.
 
 [jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se)
 
 ## Övrigt
-På dessa sidor försöker vi samla så mycket information som möjligt som
-rör dina studier på D-programmet (Civilingenjörsprogrammet Datateknik på KTH).
+The links in the side bar contain much information about your studies.
 
 
 

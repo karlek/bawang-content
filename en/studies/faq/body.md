@@ -1,3 +1,4 @@
 
-# Vanliga frågor
-Vanliga svar på frågor går att hitta nedan och på [THS hemsida] (http://ths.kth.se/contact/faq/education-and-studysocial)
+# Frequently asked questions
+
+Common answers to the questions can you find on [THS homepage](http://ths.kth.se/contact/faq/education-and-studysocial)

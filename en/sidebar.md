@@ -1,18 +1,35 @@
-##Studier
-Datateknikprogrammet på KTH är bland de främsta datateknikutbildningarna i världen. Efter examen har du breda karriärmöjligheter inom branscher där datasystem är viktiga för verksamheten, exempelvis kultur, finans, handel, vård samt industri. Arbeta med design och produktutveckling, undervisning eller konsultverksamhet.
+## Studies
 
-<a href="/studier" class="action">Mer om utbildningen &raquo;</a>
+The computer science and engineering programme at KTH is one of the most prestigious computer
+science educations in the world. After graduation you'll have lots of career
+opportunities in industries where computer systems are used, for example in
+cultural, financial, commerce, healthcare and production. Work with design and
+product development, education or consulting.
 
-<hr>
-
-##Socialt
-Att studera behöver inte bara vara långa kvällar med tunga böcker. Datasektionen anordnar pubar, fester, spelkvällar och andra roliga aktiviteter som ger dig en chans att koppla av mellan studierna och lära känna andra studerande. Aktiviteterna arrangeras av våra medlemmar och som medlem är du självklart välkommen.
-
-<a href="/sektionen" class="action">Mer om sektionen &raquo;</a>
+<a href="/en/studies" class="action">More about education &raquo;</a>
 
 <hr>
 
-##Näringsliv
-Datasektionens näringslivsgrupp arbetar aktivt för ett nära samarbete mellan sektionens medlemmar och aktörer i näringslivet, som i många fall kan bli framtida arbetsgivare. Berätta om ert företag på en lunchföreläsning, eller få personlig kontakt med studenter från <a href="http://www.topuniversities.com/university-rankings/university-subject-rankings/2015/computer-science-information-systems#sorting=rank+region=+country=203+faculty=+stars=false+search=" target="_blank">Sveriges högst rankade datautbildning</a> på vår årliga arbetsmarknadsdag.
+## Social
 
-<a href="/naringsliv" class="action">Mer om samarbete &raquo;</a>
+To study doesn't only have the be about late nights with heavy books. The Data
+Chapter arrange pubs, parties, game nights and lots of fun activites which give
+you a chance to relax between your studies and give the opportunitity to get to
+know your fellow students. Activities are arranged by our members and as a
+member you are of course always welcome.
+
+<a href="/en/chapter" class="action">More about the chapter &raquo;</a>
+
+<hr>
+
+## Industry
+
+The Data Chapter's own Business Association Club works actively for a close
+collaboration between the chapter's members and businesses, which in many cases
+can become future employeers. Talk about your company during a lunch lecture, or
+get personal contact's with students from <a
+href="http://www.topuniversities.com/university-rankings/university-subject-rankings/2015/computer-science-information-systems#sorting=rank+region=+country=203+faculty=+stars=false+search="
+target="_blank">Sweden's highest ranked computer science education</a> on our
+annual job fair.
+
+<a href="/en/industry" class="action">More about collaboration &raquo;</a>
